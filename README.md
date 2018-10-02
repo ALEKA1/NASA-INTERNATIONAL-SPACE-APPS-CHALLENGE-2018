@@ -46,6 +46,8 @@ thách thức đặt ra trong chủ đề này đòi hỏi các đội phải s�
   
 + A UNIVERSE OF BEAUTY AND WONDER (Vũ trụ của những vẻ đẹp và điều kì diệu):
   
+  ![](https://pbs.twimg.com/media/DkAJ5yuWsAAqz07.jpg:large)
+  
   Không gian bên ngoài Trái Đất luôn đầy ắp những điều kì diệu. Tìm hiểu về những thiên thể (sao, thiên hà, hành tinh...) cho chúng ta biết thêm nhiều điều về vũ trụ, và từ đó nói lên nhiều điều về chính chúng ta. Với những ai từng ngắm nhìn bầu trời sao trong đêm đều có thể kiểm chứng: luôn có chỗ cho cả sự học hỏi và thưởng thức vẻ đẹp thuần túy của vũ trụ, từ trạm không gian quốc tế ISS, từ những ống kính viễn vọng, vệ tinh và những nhiệm vụ khám phá Hệ Mặt Trời,... chúng ta đã học được rất nhiều điều, nhưng luôn còn đó những điều mới mẻ đang chờ được khám phá.
   
   Thử thách cho các đội thi trong chủ đề yêu cầu các đội phải suy nghĩ và sáng tạo về khoa học
