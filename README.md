@@ -1,6 +1,8 @@
 # NASA INTERNATIONAL SPACE APPS CHALLENGE 2018
+
 Mô tả các chủ đề, giải pháp và phương pháp cho cuộc thi
 
+### Introduction of contest:
 Chủ đề của cuộc thi năm 2018 năm nay là **"Trái Đất và không gian" (Earth and Space)**
 
 Gồm 6 chủ đề và người thi có thể chọn 1 hoặc nhiều chủ đề trong 6 đề tài do NASA (National Aeronautics and Space Administration) đặt ra:
