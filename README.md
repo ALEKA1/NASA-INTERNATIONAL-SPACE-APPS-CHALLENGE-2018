@@ -52,3 +52,14 @@ thách thức đặt ra trong chủ đề này đòi hỏi các đội phải s�
   
   Thử thách cho các đội thi trong chủ đề yêu cầu các đội phải suy nghĩ và sáng tạo về khoa học
 không gian và khám phá không gian, dưới góc độ khoa học, kĩ thuật hay nghệ thuật (hoặc cả 3).
+
+
+### Solution 2017:
+
+### Solution 2016:
+
+### Solution 2015:
+
+### Solution 2014:
+
+### Solution 2013:
