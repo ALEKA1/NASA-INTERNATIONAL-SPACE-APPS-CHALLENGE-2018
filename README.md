@@ -75,3 +75,7 @@ https://2014.spaceappschallenge.org/awards/
 ### Solution 2013:
 
 https://2013.spaceappschallenge.org/awards/
+
+### Solution 2012:
+
+https://2012.spaceappschallenge.org/resources/
