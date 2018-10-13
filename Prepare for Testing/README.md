@@ -7,4 +7,12 @@
 ![](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/2015-7-20_poster.jpg)
 
 + [NASA TECHNOLOGY TRANSFER PROGRAM](https://software.nasa.gov/)
+
+![](/images/Nasa_open_data_resource_1.PNG)
+
+![](/images/Nasa_open_data_resource_2.PNG)
+
+![](/images/Nasa_open_data_resource_3.PNG)
 + [NASA's Open Data Portal](https://data.nasa.gov/)
+
+![](/images/Nasa_technology_transfer.PNG)
