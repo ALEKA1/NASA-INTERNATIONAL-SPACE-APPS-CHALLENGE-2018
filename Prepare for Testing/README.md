@@ -1,4 +1,4 @@
-## This is list of free, open source software, open data from NASA
+## This is list of free, open source software, open data from NASA, Google, Python, Wolfram Programming Lab,... 
 
 + [NASA Technology Roadmaps](https://www.nasa.gov/offices/oct/home/roadmaps/index.html)
 
@@ -16,3 +16,10 @@
 + [NASA's Open Data Portal](https://data.nasa.gov/)
 
 ![](/images/Nasa_technology_transfer.PNG)
+
++ [Planet Developer Center](https://developers.planet.com/)
+
+Planet's daily monitoring enables detection of deforestation and changes in land use. Gain valuable insight into single events, understand what's happening on the ground, and take action when you detect a trend.
+
+![](https://s3-us-west-2.amazonaws.com/planet-gallery/web/lake-okeechobee-20160701-web.jpg)
++ [Custom Google Earth](https://www.google.com/earth/outreach/learn/)
