@@ -22,4 +22,6 @@
 Planet's daily monitoring enables detection of deforestation and changes in land use. Gain valuable insight into single events, understand what's happening on the ground, and take action when you detect a trend.
 
 ![](https://s3-us-west-2.amazonaws.com/planet-gallery/web/lake-okeechobee-20160701-web.jpg)
-+ [Custom Google Earth](https://www.google.com/earth/outreach/learn/)
++ [Customize Google Earth](https://www.google.com/earth/outreach/learn/)
+
+![](https://i.ytimg.com/vi/D3ZL2PNZhf4/maxresdefault.jpg)
